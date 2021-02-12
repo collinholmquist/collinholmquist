@@ -10,3 +10,6 @@ While I'm not lesson planning or grading, I enjoy creating stuff out of code.
 - :eyes: look for recent blog posts to ✨ appear ✨ here soon using this: [Adding recently published posts](https://iamdarshshah.hashnode.dev/how-to-add-your-recently-published-articles-to-your-github-profile-readme-using-github-actions) 
 - create more side projects.  
 
+## :green_book: Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
