@@ -11,5 +11,4 @@ While I'm not lesson planning or grading, I enjoy creating stuff out of code.
 - create more side projects.  
 
 ## :green_book: Blog posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+[a GET vs. POST post](https://collinholmquist.github.io/posts/getvpost/)
