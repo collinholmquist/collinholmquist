@@ -4,7 +4,7 @@ I'm Collin, a computer science teacher in Omaha, Nebraska. I teach my students p
 
 While I'm not lesson planning or grading, I enjoy creating stuff out of code.  
 
-:pencil: [Personal Blog](collinholmquist.github.io)
+:star: [Personal Blog](collinholmquist.github.io)
 
 ## 📋 Current Goals 
 
