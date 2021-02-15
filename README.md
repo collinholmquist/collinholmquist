@@ -4,12 +4,12 @@ I'm Collin, a computer science teacher in Omaha, Nebraska. I teach my students p
 
 While I'm not lesson planning or grading, I enjoy creating stuff out of code.  
 
-:star: [Personal Blog](collinholmquist.github.io)
+## :pushpin: Personal Blog
+- [a GET vs. POST post](https://collinholmquist.github.io/posts/getvpost/)
 
 ## 📋 Current Goals 
 
 - :calendar: blogging at least once a month.  
 - create more side projects.  
 
-## :green_book: Blog posts
-- [a GET vs. POST post](https://collinholmquist.github.io/posts/getvpost/)
+
