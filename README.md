@@ -4,10 +4,11 @@ I'm Collin, a computer science teacher in Omaha, Nebraska. I teach my students p
 
 While I'm not lesson planning or grading, I enjoy creating stuff out of code.  
 
+:pencil: [Personal Blog](collinholmquist.github.io)
+
 ## 📋 Current Goals 
 
 - :calendar: blogging at least once a month.  
-- :eyes: look for recent blog posts to ✨ appear ✨ here soon using this: [Adding recently published posts](https://iamdarshshah.hashnode.dev/how-to-add-your-recently-published-articles-to-your-github-profile-readme-using-github-actions) 
 - create more side projects.  
 
 ## :green_book: Blog posts
