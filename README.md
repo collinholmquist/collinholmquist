@@ -13,6 +13,6 @@ While I'm not lesson planning or grading, I enjoy creating stuff out of code.
 - create more side projects.  
 
 ## 🚧 Side Projects
-- [Projects Site](collinholmquist.github.io/projects)
+- [Projects Site](https://collinholmquist.github.io/projects)
 
 
